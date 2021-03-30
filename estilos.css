@@ -1,0 +1,78 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial, Helvetica, sans-serif;	
+}
+
+body {
+}
+
+#contenedorder {
+	width: auto;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 10px;
+	overflow: hidden;
+	background-color: #E5A0EA;
+}
+
+#logotoide {
+	width: 90px;
+	margin-left: 25px;
+}
+
+.menusad a {
+	text-decoration: none;
+	float: right;
+    background: #fff;
+    margin: 20px;
+    color: rgb(0, 0, 0);
+    width: 35px;
+    display: inline-block;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.menusad a:hover{
+	background-color: #BC4EC5;
+}
+
+#cuerpo h2{
+ 	text-align: center;
+ 	padding: 20px;
+ 	margin: auto;
+ 	background-color: #E5A0EA;
+ 	width: auto;
+}
+
+#trfts img {
+	width: 50%;
+	float: left;
+	overflow: hidden;
+	height: 300px;
+}
+
+#cont1te {
+	overflow: hidden;
+	border: 0px solid black;
+	width: 50%;
+	float: left;
+}
+
+#cont1te h2{
+	text-align: center;
+	background-color: #E5A0EA;
+}
+
+#cont2te {
+	border: 0px solid black;
+	width: 50%;
+	top: -5px;
+	float: left;
+}
+
+#cont2te h2{
+	background-color: #E5A0EA;	
+	text-align: center;
+}
